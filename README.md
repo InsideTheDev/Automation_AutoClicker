@@ -11,7 +11,7 @@ A simple GUI-based AutoClicker built with Python to automate mouse clicks at a s
 
 ## Installation
 1. Clone this respository:
-   git clone https://github.com/YOUR_USERNAME/AutoClicker.git cd AutoClicker
+   git clone https://github.com/InsideTheDev/Automation_AutoClicker.git cd AutoClicker
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the script:
